@@ -21,4 +21,12 @@ object Form1: TForm1
     Caption = 'Button1'
     TabOrder = 0
   end
+  object BitBtn1: TBitBtn
+    Left = 192
+    Top = 88
+    Width = 75
+    Height = 25
+    Caption = 'BitBtn1'
+    TabOrder = 1
+  end
 end
